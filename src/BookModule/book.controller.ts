@@ -14,7 +14,7 @@ import { BookRequestItemDTO } from './dtos/request/bookRequest.dto';
 import { Book } from './schemas/book.schema';
 
 @ApiTags('Book')
-@Controller('book')
+@Controller('books')
 export class BookController {
   constructor(private readonly bookService: BookService) {}
 
@@ -37,6 +37,16 @@ export class BookController {
   @Get(':skip')
   public async getBooks(@Param('skip') skip: number) {
     const limit = PageConstants.pageLimit;
-    return this.bookService.getAllBooks(limit, skip);
+    return this.bookService.getAllBooks(limit, parseInt(skip.toString()));
   }
+
+  //   @ApiOkResponse({
+  //     description: 'search books',
+  //     type: Book || null,
+  //   })
+  //   @Get('')
+  //   public async getBooks(@Query('skip') skip: number) {
+  //     const limit = PageConstants.pageLimit;
+  //     return this.bookService.getAllBooks(limit, parseInt(skip.toString()));
+  //   }
 }
