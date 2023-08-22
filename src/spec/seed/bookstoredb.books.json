@@ -1,0 +1,408 @@
+[{
+  "_id": {
+    "$oid": "64dde76c5577f73f8b760b18"
+  },
+  "createdOn": {
+    "$date": "2023-08-17T09:24:50.854Z"
+  },
+  "updatedOn": {
+    "$date": "2023-08-17T09:24:50.855Z"
+  },
+  "name": "The Magic of the Lost Story ",
+  "description": "Written in India's favourite storyteller's inimitable style, The Magic of the Lost Story captures the value of asking questions and keeping the answers alive. Packed with delightful artworks and wondrous terrains, this story takes you on an unforgettable journey as it follows the magnificent Tungabhadra River. ",
+  "publisher": "Penguin",
+  "publicationYear": "2016",
+  "price": 250,
+  "rating": 4,
+  "authors": [],
+  "image": "https://www.crossword.in/cdn/shop/products/getimage_a0479b82-081a-460a-80aa-1764154ac32e.jpg?v=1678851583",
+  "category": "Fiction",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64dde7bf9f3ac334afc0e6fe"
+  },
+  "createdOn": {
+    "$date": "2023-08-17T09:26:09.909Z"
+  },
+  "updatedOn": {
+    "$date": "2023-08-17T09:26:09.909Z"
+  },
+  "name": "The Magic of the Lost Story ",
+  "description": "Written in India's favourite storyteller's inimitable style, The Magic of the Lost Story captures the value of asking questions and keeping the answers alive. Packed with delightful artworks and wondrous terrains, this story takes you on an unforgettable journey as it follows the magnificent Tungabhadra River. ",
+  "publisher": "Penguin",
+  "publicationYear": "2016",
+  "price": 250,
+  "rating": 4,
+  "authors": [],
+  "image": "https://www.crossword.in/cdn/shop/products/getimage_a0479b82-081a-460a-80aa-1764154ac32e.jpg?v=1678851583",
+  "category": "Fiction",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d0d0814dffa9f99071fc08"
+  },
+  "name": "Samsara: Enter The Valley Of The Gods",
+  "description": "Phones stop working. Smartwatches die. And arms start glowing with blue scars. This is what happens to Aman Chandra and ten other Souls of Samsara when they are kidnapped from modern-day India and transported to a hidden valley in the Himalayas. In this realm of magic, home to Hindu gods, immortal yogis and mythical beasts, the mission is clear for the Souls of Samsara: to learn the ancient art of yogic sorcery and prepare for a treacherous journey not many can survive. ",
+  "price": 220,
+  "rating": 3,
+  "author": "Saksham Garg",
+  "category": "Fiction",
+  "publishingYear": "2020",
+  "publisher": "Penguin",
+  "image": "https://d2i0w0hu6hvxgc.cloudfront.net/B0B76YGH3V/9b11d278/cover.jpeg",
+  "authors": [
+    {
+      "$oid": "64d0d0814dffa9f99071fc07"
+    }
+  ],
+  "createdOn": {
+    "$date": "2023-08-07T11:07:45.723Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64d0c8064dffa9f99071fbf6"
+  },
+  "name": "Republic of Hindutva: How the Sangh Is Reshaping Indian Democracy",
+  "description": "No organisation that has survived for so long can do so without an astute grasp of India's socio-political realities, and using that knowledge to evolve and grow. It therefore stands to reason that a study of its recent strategies could yield insights for students of Indian democracy. Republic of Hindutva is meant to be such a study.",
+  "price": 401,
+  "rating": 5,
+  "author": "Badri Narayan",
+  "category": "Non Fiction",
+  "publishingYear": "2019",
+  "publisher": "Penguin",
+  "image": "https://m.media-amazon.com/images/I/41uSGtBsemS._SX324_BO1,204,203,200_.jpg",
+  "authors": [
+    {
+      "$oid": "64d0c8064dffa9f99071fbf5"
+    }
+  ],
+  "createdOn": {
+    "$date": "2023-08-07T10:31:34.521Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64d0c91b4dffa9f99071fbf8"
+  },
+  "name": "The India Way : Strategies for an Uncertain World ",
+  "description": "The global order is always evolving, and in that sense, change could well be seen as a constant factor. But that ongoing evolution has now been given a sharper edge by the impact of the coronavirus pandemic, developments in Afghanistan, the Ukraine conflict and greater friction among key powers. 'One Trend and Four Shocks' are thus creating a new landscape.The 'Four Shocks' have, each in their own way, led to heightened global anxiety and insecurity. This era of upheaval entails greater expectations from India, putting it on the path to becoming a leading power.In The India Way, S. Jaishankar, India's Minister of External Affairs, analyses these challenges and spells out possible policy responses. In doing so, he is very conscious of balancing India's national interest with international responsibilities. He places this thinking in the context of history and tradition, appropriate for a civilizational power that seeks to reclaim its place on the world stage.",
+  "price": 305,
+  "rating": 5,
+  "author": "S. Jaishankar",
+  "category": "Non Fiction",
+  "publishingYear": "2022",
+  "publisher": "Harper Collins",
+  "image": "https://m.media-amazon.com/images/I/41Urd3ehHqL._SX330_BO1,204,203,200_.jpg",
+  "authors": [
+    {
+      "$oid": "64d0c91a4dffa9f99071fbf7"
+    }
+  ],
+  "createdOn": {
+    "$date": "2023-08-07T10:36:11.245Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64d0c45d4dffa9f99071fbf2"
+  },
+  "name": "Hanged for their Patriotism",
+  "description": "This book is about the famour young revolutionaries of India who went to the gallows, laughing and singing.",
+  "price": 200,
+  "rating": 4,
+  "author": "Rk Tandon",
+  "category": "history",
+  "publishingYear": "2021",
+  "publisher": "NBT",
+  "image": "https://m.media-amazon.com/images/I/21GTeSU-SGL._BO1,204,203,200_.jpg",
+  "authors": [
+    {
+      "$oid": "64d0c45d4dffa9f99071fbf1"
+    }
+  ],
+  "createdOn": {
+    "$date": "2023-08-07T10:15:57.656Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64d0cad84dffa9f99071fbfc"
+  },
+  "name": "War of Lanka (Ram Chandra Series Book 4)",
+  "description": "Greed. Rage. Grief. Love. Smouldering tinder, waiting to trigger a war.But this war is different. This one is for Dharma. This war is for the greatest Goddess of them all.Sita has been kidnapped. Defiantly, she dares Raavan to kill her - she'd rather die than allow Ram to surrender.Ram is beside himself with grief and rage. He prepares for war. Fury is his fuel. Calm focus, his guide.Raavan thought he was invincible. He thought he'd negotiate and force a surrender. Little did he know ...",
+  "price": 206,
+  "rating": 4.5,
+  "author": "Amish Tripathi",
+  "category": "Mythology",
+  "publishingYear": "2022",
+  "publisher": "HarperCollins India",
+  "image": "https://m.media-amazon.com/images/P/B0B7J9THC7.01._SCLZZZZZZZ_SX500_.jpg",
+  "authors": [
+    {
+      "$oid": "64d0cad84dffa9f99071fbfb"
+    }
+  ],
+  "createdOn": {
+    "$date": "2023-08-07T10:43:36.859Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64d0c68f4dffa9f99071fbf4"
+  },
+  "name": "Myths of India-Vol1",
+  "description": "There exists a world beyond our mortal comprehension that tells the story of life before men. These are stories of the Gods and Goddesses who reign over humanity and wield the forces of the Universe. These are the stories that lay the foundations of a country a billion strong. These are the Myths of India.Acclaimed author Deepak Chopra presents the tales of the immortal gods: Ganesha, the God of Endeavours; Kali, the primal facet of the Indian Mother Goddess; Lord Shiva, the Great Destroyer. Read the legends created before legends even existed, the legends that are authentically India.",
+  "price": 600,
+  "rating": 4,
+  "author": "Deepak Chopra",
+  "category": "mythological",
+  "publishingYear": "2008",
+  "publisher": "Graphic India",
+  "image": "https://m.media-amazon.com/images/I/61+HhScCwiL._SX373_BO1,204,203,200_.jpg",
+  "authors": [
+    {
+      "$oid": "64d0c68f4dffa9f99071fbf3"
+    }
+  ],
+  "createdOn": {
+    "$date": "2023-08-07T10:25:19.991Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64d0c9de4dffa9f99071fbfa"
+  },
+  "name": "INDIAN SUPERFOODS: CHANGE THE WAY YOU EAT",
+  "description": "Forget about acacia seeds and goji berries. The secret foods for health, vitality and weight loss lie in our own kitchens and backyards. From aphrodisiacs to fertility boosters, fat burners to mind calmers, top nutritionist Rujuta Diwekar talks you through the ten Indian superfoods that will completely transform you.",
+  "price": 200,
+  "rating": 4.5,
+  "author": "Rujuta Diwekar",
+  "category": "Health",
+  "publishingYear": "2016",
+  "publisher": "Juggernaut",
+  "image": "https://m.media-amazon.com/images/I/51Vorym2WHL._SX327_BO1,204,203,200_.jpg",
+  "authors": [
+    {
+      "$oid": "64d0c9de4dffa9f99071fbf9"
+    }
+  ],
+  "createdOn": {
+    "$date": "2023-08-07T10:39:26.448Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64d0cb894dffa9f99071fbfe"
+  },
+  "name": "Think And Win Like Dhoni, 2nd Edition",
+  "description": "6 Success secrets second edition includes Dhoni’s secret to facing setbacks National bestseller over 70, 000 copies sold do you tend to buckle under pressure? Do you find yourself losing your cool in stressful situations? Do you find yourself unlucky in spite of working hard? Think and win like Dhoni is not just a usual book about cricket, but a book that will help you to beat the odds. Get ahead of your competitors using tips and Tricks from former Indian Captain Mahendra Singh Dhoni’s life, shared by the man himself! Everyone says MS Dhoni is lucky. But have you ever wondered why he is so lucky? How does he manage to cash in on opportunities? How does he remain calm in the face of immense pressure? What is his secret to facing setbacks? What makes him a great leader and a youth icon? Discover the mind power of the boy who travelled the road to exclusivity, from being a regular Ranchi lad to a world-famous cricketer. Learn how to build confidence, dismiss fear, and perform top-class so that you enjoy immense success in work and life.",
+  "price": 312,
+  "rating": 3.5,
+  "author": "Sfurti Sahare",
+  "category": "Self Help",
+  "publishingYear": "2021",
+  "publisher": "Jaico Publishing House",
+  "image": "https://m.media-amazon.com/images/P/B08KS5CX8B.01._SCLZZZZZZZ_SX500_.jpg",
+  "authors": [
+    {
+      "$oid": "64d0cb884dffa9f99071fbfd"
+    }
+  ],
+  "createdOn": {
+    "$date": "2023-08-07T10:46:33.239Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64d0cd2e4dffa9f99071fc00"
+  },
+  "name": "Wise and Otherwise: A salute to Life",
+  "description": " Understanding human and human nature is one of the toughest jobs .Many time what seems right and good or vice versa can be completely different if explored to proper depth. In many instance, we all come across people and forms an opinion about the people we meet without actually knowing anything about them. But hearing and learning about such instances helps us to redefine our thought process and become wiser. Sudha Murtys book Wise and otherwise will take you to a journey across the length and breadth of India through narrations of 51 stories inspired by the extensive travels of the author herself.Wise and otherwise has generated interest not just as an inspirational book of peoples struggles and how they overcome it but also for its settings. It present a realistic picture of India with its values, traditions and imperfections and lay before the readers certain set of moral values whose validity they have to judge for themselves. It unravels human nature and shows all that is good and bad in it and how it is often shaped by intention and circumstances. From the story of a son who leaves his father in an old age home pretending he is a stranger to the story of earthquake aid being exploited and not reaching to victims, each story is a moving one and will generate myriads of emotions within the readers, ranging from anger to kindness to pity to the realisation of reality of the world. The book grabs the attention of the reader through its skilful narration of characters, setting and situations.The book is available online for convenient shopping. You can bag this book from Amazon.in today by following a few easy steps. ",
+  "price": 162,
+  "rating": 4,
+  "author": "Sudha Murthy",
+  "category": "Fiction",
+  "publishingYear": "2016",
+  "publisher": "Enguin",
+  "image": "https://m.media-amazon.com/images/P/0143062220.01._SCLZZZZZZZ_SX500_.jpg",
+  "authors": [
+    {
+      "$oid": "64d0cd2d4dffa9f99071fbff"
+    }
+  ],
+  "createdOn": {
+    "$date": "2023-08-07T10:53:34.195Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64d1de119122404c29da82f5"
+  },
+  "name": "Masala Lab: The Science of Indian Cookin",
+  "description": "Ever wondered why your grandmother threw a teabag into the pressure cooker while boiling chickpeas, or why she measured using the knuckle of her index finger? Why does a counter-intuitive pinch of salt make your kheer more intensely flavourful? What is the Maillard reaction and what does it have to do with fenugreek? What does your high-school chemistry knowledge, or what you remember of it, have to do with perfectly browning your onions? ",
+  "price": 233,
+  "rating": 4,
+  "author": "Krish Ashok",
+  "category": "Cooking",
+  "publishingYear": "2021",
+  "publisher": "Penguin",
+  "image": "https://m.media-amazon.com/images/P/B0756WQVKR.01._SCLZZZZZZZ_SX500_.jpg",
+  "authors": [
+    {
+      "$oid": "64d1de119122404c29da82f4"
+    }
+  ],
+  "createdOn": {
+    "$date": "2023-08-08T06:17:53.815Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64d0cd52bf27039b21d08a4c"
+  },
+  "name": "Three Thousand Stitches: Ordinary People, Extraordinary Lives",
+  "description": "So often, it's the simplest acts of courage that touch the lives of others. Sudha Murty-through the exceptional work of the Infosys Foundation as well as through her own youth, family life and travels-encounters many such stories... And she tells them here in her characteristically clear-eyed, warm-hearted way. She talks candidly about the meaningful impact of her work in the devadasi community, her trials and tribulations as the only female student in her engineering college and the unexpected and inspiring consequences of her father's kindness. From the quiet joy of discovering the reach of Indian cinema and the origins of Indian vegetables to the shallowness of judging others based on appearances, these are everyday struggles and victories, large and small. Unmasking both the beauty and ugliness of human nature, each of the real-life stories in this collection is reflective of a life lived with grace. ",
+  "price": 162,
+  "rating": 4,
+  "category": "Fiction",
+  "publishingYear": "2016",
+  "publisher": "Penguin",
+  "image": "https://m.media-amazon.com/images/P/B07354X2GJ.01._SCLZZZZZZZ_SX500_.jpg",
+  "author": [
+    {
+      "$oid": "64d0ce5fbf27039b21d08a50"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64d0cf264dffa9f99071fc02"
+  },
+  "name": "India: A Wounded Civilization",
+  "description": "The second book in V. S. Naipaul's acclaimed Indian trilogy. In 1964 V. S. Naipaul published An Area of Darkness, his semi-autobiographical account of a year in India. Two visits later, prompted by the Emergency of 1975, he came to write India: A Wounded Civilization. In this work he casts a more analytical eye than before over Indian attitudes, while recapitulating and further probing the feelings aroused in him by this vast, mysterious, and agonized country. What he saw and heard – evoked so superbly and vividly in these pages – reinforced in him a conviction that India, wounded by a thousand years of foreign rule, has not yet found an ideology of regeneration. A work of fierce candour and precision, it is also a generous description of one man’s complicated relationship with the country of his ancestors. ‘A devastating work, but proof that a novelist of Naipaul’s stature can often define problems quicker and more effectively than a team of economists and other experts’ The Times ",
+  "price": 670,
+  "rating": 4,
+  "author": "V.S. Naipaul",
+  "category": "History",
+  "publishingYear": "2009",
+  "publisher": "Picador ",
+  "image": "https://m.media-amazon.com/images/P/B003GUBIOI.01._SCLZZZZZZZ_SX500_.jpg",
+  "authors": [
+    {
+      "$oid": "64d0cf254dffa9f99071fc01"
+    }
+  ],
+  "createdOn": {
+    "$date": "2023-08-07T11:01:58.240Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64d0cfac4dffa9f99071fc04"
+  },
+  "name": "Startup to Proficorn A Private, Bootstrapped, Profitable, and Highly Valuable Venture",
+  "description": "tartup to Proficorn is a successful serial tech entrepreneur’s journey and what he learned along the way about launching and scaling startups. This book offers a roadmap to every aspiring and existing entrepreneur to build lucrative businesses without relying on external funding.Using stories from entrepreneur Rajesh Jain’s life strewn with failures and successes, the book offers helpful guidance to conquer the challenges that will surely come your way throughout the entrepreneurial journey, whatever be the stage you are at. ",
+  "price": 377,
+  "rating": 3,
+  "author": "Rajesh Jain",
+  "category": "Self Help",
+  "publishingYear": "2020",
+  "publisher": "Jaico Publishing House",
+  "image": "https://m.media-amazon.com/images/P/B0C5X24X8Y.01._SCLZZZZZZZ_SX500_.jpg",
+  "authors": [
+    {
+      "$oid": "64d0cfac4dffa9f99071fc03"
+    }
+  ],
+  "createdOn": {
+    "$date": "2023-08-07T11:04:12.746Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64d0cfe94dffa9f99071fc06"
+  },
+  "name": "Startup Idea To IPO : What does it take to create a Unicorn Company",
+  "description": "tartup to Proficorn is a successful serial tech entrepreneur’s journey and what he learned along the way about launching and scaling startups. This book offers a roadmap to every aspiring and existing entrepreneur to build lucrative businesses without relying on external funding.Using stories from entrepreneur Rajesh Jain’s life strewn with failures and successes, the book offers helpful guidance to conquer the challenges that will surely come your way throughout the entrepreneurial journey, whatever be the stage you are at. ",
+  "price": 220,
+  "rating": 3,
+  "author": "CA Rajan Bhatia",
+  "category": "Self Help",
+  "publishingYear": "2020",
+  "publisher": "Jaico Publishing House",
+  "image": "https://m.media-amazon.com/images/P/B07RXYRV6X.01._SCLZZZZZZZ_SX500_.jpg",
+  "authors": [
+    {
+      "$oid": "64d0cfe94dffa9f99071fc05"
+    }
+  ],
+  "createdOn": {
+    "$date": "2023-08-07T11:05:13.499Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64d33ef22b71bec57086fc30"
+  },
+  "createdOn": {
+    "$date": "2023-08-09T07:23:30.675Z"
+  },
+  "updatedOn": {
+    "$date": "2023-08-09T07:23:30.675Z"
+  },
+  "name": "Masala Lab: The Science of Indian Cookin",
+  "description": "Ever wondered why your grandmother threw a teabag into the pressure cooker while boiling chickpeas, or why she measured using the knuckle of her index finger? Why does a counter-intuitive pinch of salt make your kheer more intensely flavourful? What is the Maillard reaction and what does it have to do with fenugreek? What does your high-school chemistry knowledge, or what you remember of it, have to do with perfectly browning your onions? ",
+  "publisher": "Penguin",
+  "publicationYear": "2021",
+  "price": 233,
+  "rating": 4,
+  "image": "https://m.media-amazon.com/images/P/B0756WQVKR.01._SCLZZZZZZZ_SX500_.jpg",
+  "category": "Cooking"
+},
+{
+  "_id": {
+    "$oid": "64d37a3790504b2c4d71dfd6"
+  },
+  "createdOn": {
+    "$date": "2023-08-09T11:36:23.705Z"
+  },
+  "updatedOn": {
+    "$date": "2023-08-09T11:36:23.705Z"
+  },
+  "name": "Masala Lab: The Science of Indian Cookin",
+  "description": "Ever wondered why your grandmother threw a teabag into the pressure cooker while boiling chickpeas, or why she measured using the knuckle of her index finger? Why does a counter-intuitive pinch of salt make your kheer more intensely flavourful? What is the Maillard reaction and what does it have to do with fenugreek? What does your high-school chemistry knowledge, or what you remember of it, have to do with perfectly browning your onions? ",
+  "publisher": "Penguin",
+  "publicationYear": "2021",
+  "price": 233,
+  "rating": 4,
+  "authors": [
+    null
+  ],
+  "image": "https://m.media-amazon.com/images/P/B0756WQVKR.01._SCLZZZZZZZ_SX500_.jpg",
+  "category": "Cooking"
+},
+{
+  "_id": {
+    "$oid": "64de02bca1ed921605b09a80"
+  },
+  "createdOn": {
+    "$date": "2023-08-17T11:19:37.939Z"
+  },
+  "updatedOn": {
+    "$date": "2023-08-17T11:19:37.940Z"
+  },
+  "name": "Crossroads ",
+  "description": "Surota clan's hopes of finding the lost information is carried out by four brave warriors, Jaden, a ten-years-old kid, Frank, a powerful, bulky teenager, and best friends to Jaden, Rose, a beautiful young girl known for her stealth, and Arthur, the teen king of Surota.  ",
+  "publisher": "Penguin",
+  "publicationYear": "2014",
+  "price": 250,
+  "rating": 2,
+  "authors": [],
+  "image": "https://www.crossword.in/cdn/shop/products/9789352017966_2_460x.jpg?v=1674199670",
+  "category": "Fiction",
+  "__v": 0
+}]
