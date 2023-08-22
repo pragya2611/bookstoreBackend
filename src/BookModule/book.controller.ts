@@ -1,16 +1,18 @@
 import {
-    Body,
-    Controller,
-    Get,
-    Param,
-    Post,
-    Req,
+  Body,
+  Controller,
+  Get,
+  Param,
+  Post,
+  Req,
 } from '@nestjs/common/decorators';
 import { ApiOkResponse, ApiTags } from '@nestjs/swagger';
+import { TransformPlainToInstance } from 'class-transformer';
 import { Request } from 'express';
 import { PageConstants } from 'src/core/constants';
 import { BookService } from './book.service';
 import { BookRequestItemDTO } from './dtos/request/bookRequest.dto';
+import { BookResponseItemDTO } from './dtos/response';
 import { Book } from './schemas/book.schema';
 
 @ApiTags('Book')
@@ -37,7 +39,13 @@ export class BookController {
   @Get(':skip')
   public async getBooks(@Param('skip') skip: number) {
     const limit = PageConstants.pageLimit;
-    return this.bookService.getAllBooks(limit, parseInt(skip.toString()));
+    const books = await this.bookService.getAllBooks(
+      limit,
+      parseInt(skip.toString()),
+    );
+    return books.map((item) =>
+      TransformPlainToInstance(BookResponseItemDTO, item),
+    );
   }
 
   //   @ApiOkResponse({

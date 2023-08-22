@@ -1,5 +1,5 @@
-import { Injectable } from '@nestjs/common';
-
+import { Controller, Injectable } from '@nestjs/common';
+@Controller('api')
 @Injectable()
 export class AppService {
   getHello(): string {
